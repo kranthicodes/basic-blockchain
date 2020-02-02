@@ -1,0 +1,14 @@
+{
+  "name": "lightningchain",
+  "version": "1.0.0",
+  "description": "lightweight blockchain using JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "sai-kranthi-au4",
+  "license": "ISC"
+}
